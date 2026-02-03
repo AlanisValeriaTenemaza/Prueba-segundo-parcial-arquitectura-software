@@ -16,6 +16,9 @@ el capital disponible del usuario.
 - GET /productos
 - POST /simulaciones
 - GET /simulaciones/{usuarioId}
+# Estrutura del proyecto
+- <img width="327" height="632" alt="image" src="https://github.com/user-attachments/assets/a2e754f9-d4e1-462f-befb-d24d5ef71755" />
+
 
 ##  creacion de base de datos y docker
 <img width="1366" height="768" alt="Captura de pantalla (21)" src="https://github.com/user-attachments/assets/d9f2602d-9ddc-4426-991d-732a540f23c1" />
